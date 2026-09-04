@@ -4,7 +4,7 @@
 
 # Presentation on What is Agentic AI From Basic to Advanced
 
-## 2. Block 2 — Chatbot vs Copilot vs Agent (20 min)
+## 2. Block 2 — Chatbot vs Copilot vs Agent
 
 ### 2.1 The autonomy ladder
 
@@ -36,12 +36,12 @@ Push back on agent-washing. Do not build an agent when:
 
 Agents earn their cost when the **path is unknown at design time** but the **goal is well defined**, and the **tools are safe and reversible**.
 
-### 2.4 Discussion prompt (5 min, pairs)
+### 2.4 Discussion prompt
 > Take one workflow from your current project. Classify it: chatbot, copilot, agent, or plain code. Defend the choice in one sentence.
 
 ---
 
-## 3. Block 3 — The Agent Loop (22 min)
+## 3. Block 3 — The Agent Loop
 
 ### 3.1 The loop
 
@@ -115,7 +115,7 @@ An agent loop needs **all** of these:
 
 ---
 
-## 4. Block 4 — Prompt Engineering for Software Engineering (35 min)
+## 4. Block 4 — Prompt Engineering for Software Engineering
 
 ### 4.1 Why generic prompt advice fails engineers
 
@@ -303,7 +303,7 @@ Why it works: the model is excellent at *fixing* a specific, named error and poo
 
 ---
 
-## 5. Block 5 — Lab 1: Single Agent with LangChain (30 min)
+## 5. Block 5 — Lab 1: Single Agent with LangChain
 
 **Use case: Production Incident Triage Agent.**
 On-call engineers waste the first 15 minutes of every incident doing the same mechanical work: read the log, check if the service is actually unhealthy, find the matching runbook, check whether this happened before, then write a triage summary. It is high-frequency, low-creativity, fully tool-bounded work with a well-defined "done" — the textbook single-agent case.
@@ -321,7 +321,7 @@ Step-by-step build order used in the lab:
 
 ---
 
-## 6. Block 6 — Lab 2: Multi-Agent with CrewAI (25 min)
+## 6. Block 6 — Lab 2: Multi-Agent with CrewAI
 
 **Use case: Feature Delivery Crew** — one Jira-style feature request in, a reviewed implementation package out (user stories → API design → FastAPI code → pytest suite → review report).
 
@@ -349,7 +349,7 @@ Step-by-step build order:
 
 ---
 
-## 7. Block 7 — Harness Engineering (18 min)
+## 7. Block 7 — Harness Engineering
 
 ### 7.1 What it is
 
