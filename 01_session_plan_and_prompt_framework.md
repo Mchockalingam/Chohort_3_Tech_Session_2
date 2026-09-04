@@ -172,7 +172,7 @@ A six-part structure for any engineering prompt. Each letter maps to a concrete 
 
 **Mnemonic for the room:** *A prompt without a T is a ROCKE — it never lands.*
 
-### 4.3 ROCKET applied — worked example
+### 4.3 ROCKET applied
 
 Task: generate a database migration.
 
