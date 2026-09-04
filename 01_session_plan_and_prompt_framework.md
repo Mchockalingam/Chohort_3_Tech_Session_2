@@ -37,7 +37,7 @@ Predicts widespread integration of Agentic AI in society, increased collaboratio
 # Ethical Considerations
 Discusses autonomy vs. control, accountability, transparency, societal impact, and principles for responsible AI development (human-centered design, bias mitigation, governance).
 
-# Conclusion: 
+# Conclusion 
 Agentic AI represents the next evolution in AI, enabling systems to solve complex problems autonomously and work alongside humans, with significant implications for industry and society.
 
 ## 2. Block 2 — Chatbot vs Copilot vs Agent
