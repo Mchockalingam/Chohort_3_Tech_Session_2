@@ -1,43 +1,8 @@
-# Introduction to Agentic AI + Prompt Engineering
-### Technical Session Plan — 180 Minutes
-**Audience:** Software engineers, tech leads, architects
-**Format:** Concept blocks + two hands-on labs (Google Colab)
+# Introduction to Agentic AI and Prompt Engineering for Software Engineering
+### Technical Session Plan 
 **Prereqs:** Python basics, an OpenAI or Anthropic API key, a Google account for Colab
 
----
-
-## 0. Session Outcomes
-
-By the end of the 180 minutes, every participant can:
-
-1. Explain the difference between a **chatbot**, a **copilot**, and an **agent**, and pick the right one for a given problem.
-2. Draw the **agent loop** and name every component (goal, instructions, tools, memory, response).
-3. Apply the **ROCKET prompt engineering framework** to a real software engineering task.
-4. Force a model into **strict JSON**, validate it, and recover when the model gets it wrong.
-5. Build and run a **single agent in LangChain** (Production Incident Triage Agent).
-6. Build and run a **multi-agent crew in CrewAI** (Feature Delivery Crew).
-7. Describe **harness engineering** and list the things that must exist around an agent before it goes to production.
-
----
-
-## 1. Timetable (180 minutes)
-
-| # | Time | Duration | Block | Mode |
-|---|------|----------|-------|------|
-| 1 | 00:00 – 00:10 | 10 min | Framing, outcomes, baseline poll | Talk |
-| 2 | 00:10 – 00:30 | 20 min | Chatbot vs Copilot vs Agent | Talk + discussion |
-| 3 | 00:30 – 00:52 | 22 min | The agent loop: goals, instructions, tools, responses | Whiteboard |
-| — | 00:52 – 01:02 | 10 min | **Break** | — |
-| 4 | 01:02 – 01:37 | 35 min | Prompt engineering for software engineering (ROCKET), system prompts, few-shot, JSON, validation | Talk + live prompting |
-| 5 | 01:37 – 02:07 | 30 min | **Lab 1** — Single agent with LangChain | Hands-on |
-| — | 02:07 – 02:14 | 7 min | **Break** | — |
-| 6 | 02:14 – 02:39 | 25 min | **Lab 2** — Multi-agent system with CrewAI | Hands-on |
-| 7 | 02:39 – 02:57 | 18 min | Harness engineering: what wraps the agent in production | Talk |
-| 8 | 02:57 – 03:00 | 3 min | Wrap-up, homework, references | Talk |
-
-**Facilitator note:** Labs are timeboxed. Notebooks are pre-written and pre-tested — participants run and modify, they do not type from scratch. If a room is slow, the fallback is "run the notebook as-is and change one tool."
-
----
+# Presentation on What is Agentic AI From Basic to Advanced
 
 ## 2. Block 2 — Chatbot vs Copilot vs Agent (20 min)
 
