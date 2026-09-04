@@ -3,7 +3,7 @@
 **Prereqs:** Python basics, an OpenAI or Anthropic API key, a Google account for Colab
 
 # Presentation on What is Agentic AI From Basic to Advanced
-# "Agentic AI: From Basics to Advanced"
+# Agentic AI: From Basics to Advanced
 # Definition & Importance 
 Agentic AI systems can perceive, decide, and act independently to accomplish goals with minimal human intervention. They are adaptive, proactive, and capable of learning from experience, unlocking new capabilities beyond traditional AI.
 
