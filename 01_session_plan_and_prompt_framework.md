@@ -481,12 +481,3 @@ In Colab, store keys with the secrets panel (🔑) as `OPENAI_API_KEY` or `ANTHR
 
 ---
 
-## Appendix C — Deliverables in this pack
-
-| File | Purpose |
-|---|---|
-| `01_session_plan_and_prompt_framework.md` | This document — plan, concepts, ROCKET framework |
-| `02_single_agent_langchain.py` / `.ipynb` | Lab 1 — LangChain incident triage agent, fully documented |
-| `03_multi_agent_crewai.py` / `.ipynb` | Lab 2 — CrewAI feature delivery crew, fully documented |
-| `04_prompt_template_single_agent_langchain.md` | Claude Code prompt to regenerate Lab 1 |
-| `05_prompt_template_multi_agent_crewai.md` | Claude Code prompt to regenerate Lab 2 |
